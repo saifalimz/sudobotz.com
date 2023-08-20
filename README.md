@@ -1,6 +1,6 @@
 # Welcome to SudoBotz Freelance Software Services
 
-![SudoBotz Logo](https://www.sudobotz.com/images/logo.png)
+![SudoBotz Logo](https://www.sudobotz.com/images/banner.png)
 
 Are you looking for top-notch freelance software development services? Look no further! SudoBotz is your one-stop solution for a wide range of automation, data processing, and software development needs. With years of experience and a passion for crafting efficient and effective solutions, I am here to transform your ideas into reality.
 
@@ -37,5 +37,3 @@ Ready to take your business to the next level with our freelance software servic
 - Contact us at [contact@sudobotz.com](mailto:contact@sudobotz.com) to discuss your project ideas, receive a quote, or simply have a chat about how we can assist you.
 
 Transforming your ideas into innovative software solutions – that's what we do best at SudoBotz. Let's collaborate and bring your vision to life!
-
-![SudoBotz Banner](https://www.sudobotz.com/images/banner.png)
